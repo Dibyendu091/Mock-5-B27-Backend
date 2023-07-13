@@ -1,0 +1,27 @@
+{
+  "name": "mock-5-b27-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dibyendu091/Mock-5-B27-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dibyendu091/Mock-5-B27-Backend/issues"
+  },
+  "homepage": "https://github.com/Dibyendu091/Mock-5-B27-Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "json-server": "^0.17.3",
+    "json-web-token": "^3.2.0",
+    "mongoose": "^7.3.4"
+  }
+}
